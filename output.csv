@@ -1,0 +1,30 @@
+PID,Response Time,Takeover Duration,Fixation Type,Fixation Duration Before Takeover
+1,2.1,5.034,Fixation-iPad,NA
+5,1.8,14.667,Fixation-Road,0.9329999999999927
+6,0.2,0.233,Takeover Warning,NA
+7,0.566,1.8,Takeover Warning,NA
+9,1.566,0.767,Fixation-Road,0.7000000000000455
+10,1.467,1.3,Takeover Warning,NA
+11,1.167,5.833,Takeover Warning,NA
+12,1.466,1.167,Takeover Warning,NA
+13,1.566,1.134,Takeover Warning,NA
+14,2.267,12.533,Fixation-Road,1.0670000000000073
+15,2.1,13.334,Takeover Warning,NA
+17,1.467,4.3,Takeover Warning,NA
+18,1.7,4.0,Takeover Warning,NA
+19,2.067,3.633,Takeover Warning,NA
+20,1.1,4.733,Takeover Warning,NA
+22,9.233,5.933,Fixation-Road,8.799999999999955
+23,1.1,16.133,Takeover Warning,NA
+24,2.234,13.8,Fixation-Road,1.0
+26,1.534,4.133,Takeover Warning,NA
+27,0.933,4.967,Takeover Warning,NA
+28,0.8,2.967,Fixation-Road,0.5670000000000073
+29,1.066,4.6,Takeover Warning,NA
+31,1.967,9.8,Fixation-Road,1.6330000000000382
+32,1.3,15.567,Takeover Warning,NA
+33,2.133,13.134,Takeover Warning,NA
+34,1.534,14.266,Takeover Warning,NA
+35,1.834,13.8,Fixation-Road,0.6340000000000146
+36,1.333,4.3,Takeover Warning,NA
+39,1.366,5.667,Takeover Warning,NA
